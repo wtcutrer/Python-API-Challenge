@@ -1,0 +1,167 @@
+*/LessonPlan.md
+*/Time*.xlsx
+*/*.pptx
+Ins_Overview.md
+
+# StudentGuide.md
+
+# 1
+# 1/Activities
+# 1/Activities/01-Ins_RequestsIntro
+# 1/Activities/01-Ins_RequestsIntro/Solved
+# 1/Activities/01-Ins_RequestsIntro/Unsolved
+# 1/Activities/02-Stu_SpaceX-Request
+# 1/Activities/02-Stu_SpaceX-Request/Unsolved
+# 1/Activities/03-Ins_ManipulatingResponses
+# 1/Activities/03-Ins_ManipulatingResponses/Solved
+# 1/Activities/03-Ins_ManipulatingResponses/Unsolved
+# 1/Activities/04-Stu_FarFarAway-APIData
+# 1/Activities/04-Stu_FarFarAway-APIData/Unsolved
+# 1/Activities/05-Par_NumberFacts-APIApplication
+# 1/Activities/05-Par_NumberFacts-APIApplication/Unsolved
+# 1/Activities/06-Ins_OMDbRequests
+# 1/Activities/06-Ins_OMDbRequests/Solved
+# 1/Activities/06-Ins_OMDbRequests/Unsolved
+# 1/Activities/07-Stu_Explore_OMDb_API
+# 1/Activities/08-Stu_MovieQuestions
+# 1/Activities/08-Stu_MovieQuestions/Unsolved
+# 1/Activities/09-Ins_IterativeRequests
+# 1/Activities/09-Ins_IterativeRequests/Solved
+# 1/Activities/09-Ins_IterativeRequests/Unsolved
+# 1/Activities/10-Stu_MovieLoop
+# 1/Activities/10-Stu_MovieLoop/Unsolved
+# 1/Activities/11-Ins_NYTAPI
+# 1/Activities/11-Ins_NYTAPI/Solved
+# 1/Activities/11-Ins_NYTAPI/Unsolved
+# 1/Activities/12-Stu_RetrieveArticles
+# 1/Activities/12-Stu_RetrieveArticles/Unsolved
+# 1/Images
+# 1/Images/Old Images
+
+# 1/Activities/02-Stu_SpaceX-Request/Solved
+# 1/Activities/04-Stu_FarFarAway-APIData/Solved
+# 1/Activities/05-Par_NumberFacts-APIApplication/Solved
+# 1/Activities/08-Stu_MovieQuestions/Solved
+# 1/Activities/10-Stu_MovieLoop/Solved
+# 1/Activities/12-Stu_RetrieveArticles/Solved
+
+
+# 1/Extra_Content
+# 1/Extra_Content/00-Ins_Standard_Error
+# 1/Extra_Content/13-Stu_Combining_Data
+# 1/Extra_Content/13-Stu_Combining_Data/Solved
+
+
+# 2
+# 2/Activities
+# 2/Activities/01-Stu_JSONTraversalReview
+# 2/Activities/01-Stu_JSONTraversalReview/Resources
+# 2/Activities/01-Stu_JSONTraversalReview/Unsolved
+# 2/Activities/02-Stu_RequestReview
+# 2/Activities/02-Stu_RequestReview/Unsolved
+# 2/Activities/03-Ins_OpenWeatherRequest
+# 2/Activities/03-Ins_OpenWeatherRequest/Solved
+# 2/Activities/03-Ins_OpenWeatherRequest/Unsolved
+# 2/Activities/04-Stu_BurundiWeatherApp
+# 2/Activities/04-Stu_BurundiWeatherApp/Unsolved
+# 2/Activities/05-Ins_OpenWeatherDataFrame
+# 2/Activities/05-Ins_OpenWeatherDataFrame/Solved
+# 2/Activities/05-Ins_OpenWeatherDataFrame/Unsolved
+# 2/Activities/06-Stu_TVRatingsDataFrame
+# 2/Activities/06-Stu_TVRatingsDataFrame/Unsolved
+# 2/Activities/07-Stu_Weather_Stats
+# 2/Activities/07-Stu_Weather_Stats/Unsolved
+# 2/Activities/08-Ins_ExceptionHandling
+# 2/Activities/08-Ins_ExceptionHandling/Solved
+# 2/Activities/08-Ins_ExceptionHandling/Unsolved
+# 2/Activities/09-Stu_MakingExceptions
+# 2/Activities/09-Stu_MakingExceptions/Unsolved
+# 2/Activities/10-Stu_API_Exceptions
+# 2/Activities/10-Stu_API_Exceptions/Unsolved
+# 2/Activities/11-Ins_WorldBankAPI
+# 2/Activities/11-Ins_WorldBankAPI/Solved
+# 2/Activities/11-Ins_WorldBankAPI/Unsolved
+# 2/Activities/12-Stu_TwoCalls
+# 2/Activities/12-Stu_TwoCalls/Unsolved
+# 2/Images
+# 2/Images/Jupyter Notebook Images
+# 2/Images/Old Images
+
+# 2/Activities/01-Stu_JSONTraversalReview/Solved
+# 2/Activities/02-Stu_RequestReview/Solved
+# 2/Activities/04-Stu_BurundiWeatherApp/Solved
+# 2/Activities/06-Stu_TVRatingsDataFrame/Solved
+# 2/Activities/07-Stu_Weather_Stats/Solved
+# 2/Activities/09-Stu_MakingExceptions/Solved
+# 2/Activities/10-Stu_API_Exceptions/Solved
+# 2/Activities/12-Stu_TwoCalls/Solved
+
+# 2/Extra_Content
+# 2/Extra_Content/09-Ins_OpenWeatherWrapper
+# 2/Extra_Content/09-Ins_OpenWeatherWrapper/Solved
+# 2/Extra_Content/09-Ins_OpenWeatherWrapper/Unsolved
+# 2/Extra_Content/10-Stu_MapWrap
+# 2/Extra_Content/10-Stu_MapWrap/Resources
+# 2/Extra_Content/10-Stu_MapWrap/Unsolved
+# 2/Extra_Content/10-Stu_MapWrap/Solved
+# 2/Extra_Content/13-Ins_CitiPy
+# 2/Extra_Content/13-Ins_CitiPy/Solved
+# 2/Extra_Content/13-Ins_CitiPy/Unsolved
+# 2/Extra_Content/Stu_CityPressure
+# 2/Extra_Content/Stu_CityPressure/Unsolved
+# 2/Extra_Content/Stu_CityPressure/Solved
+
+
+
+# 3
+# 3/Activities
+# 3/Activities/01-Ins_Google_Geocode
+# 3/Activities/01-Ins_Google_Geocode/Solved
+# 3/Activities/01-Ins_Google_Geocode/Unsolved
+# 3/Activities/02-Ins_Google_Places
+# 3/Activities/02-Ins_Google_Places/Solved
+# 3/Activities/02-Ins_Google_Places/Unsolved
+# 3/Activities/03-Stu_Google_Drills
+# 3/Activities/03-Stu_Google_Drills/Unsolved
+# 3/Activities/04-Ins_NearestRestr
+# 3/Activities/04-Ins_NearestRestr/Resources
+# 3/Activities/04-Ins_NearestRestr/Solved
+# 3/Activities/04-Ins_NearestRestr/Unsolved
+# 3/Activities/05-Stu_Google_Complex
+# 3/Activities/05-Stu_Google_Complex/Resources
+# 3/Activities/05-Stu_Google_Complex/Unsolved
+# 3/Activities/06-Evr_Jupyter_Gmaps
+# 3/Activities/06-Evr_Jupyter_Gmaps/Images
+# 3/Activities/06-Evr_Jupyter_Gmaps/Solved
+# 3/Activities/06-Evr_Jupyter_Gmaps/Unsolved
+# 3/Activities/07-Stu_Airport_Map
+# 3/Activities/07-Stu_Airport_Map/Images
+# 3/Activities/07-Stu_Airport_Map/Resources
+# 3/Activities/07-Stu_Airport_Map/Unsolved
+# 3/Activities/08-Ins_Census
+# 3/Activities/08-Ins_Census/Solved
+# 3/Activities/08-Ins_Census/Unsolved
+# 3/Activities/09-Stu_Census_API_Gmap
+# 3/Activities/09-Stu_Census_API_Gmap/Images
+# 3/Activities/09-Stu_Census_API_Gmap/Resources
+# 3/Activities/09-Stu_Census_API_Gmap/Unsolved
+# 3/Activities/10-Stu_BankDeserts_Heatmap
+# 3/Activities/10-Stu_BankDeserts_Heatmap/Images
+# 3/Activities/10-Stu_BankDeserts_Heatmap/Resources
+# 3/Activities/10-Stu_BankDeserts_Heatmap/Unsolved
+# 3/Activities/Resources
+# 3/Activities/Resources/Images
+# 3/Images
+
+# 3/Activities/03-Stu_Google_Drills/Solved
+# 3/Activities/05-Stu_Google_Complex/Solved
+# 3/Activities/07-Stu_Airport_Map/Solved
+# 3/Activities/09-Stu_Census_API_Gmap/Solved
+# 3/Activities/10-Stu_BankDeserts_Heatmap/Solved
+
+# 3/Extra_Content
+# 3/Extra_Content/01-Stu_Wrapper_Recap
+# 3/Extra_Content/01-Stu_Wrapper_Recap/Unsolved
+# 3/Extra_Content/01-Stu_Wrapper_Recap/Solved
+
+# VideoGuide.md
